@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654665921949",
+    "project_id": "kullaniciblog01",
+    "storage_bucket": "kullaniciblog01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654665921949:android:0976f09e832ee480896b74",
+        "android_client_info": {
+          "package_name": "com.example.kullaniciblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654665921949-7gork2ggr4jvvhpoi121qk3s7us8bkbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB77PMjih2ng_FdJaVicNoKaYq-29pJess"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654665921949-7gork2ggr4jvvhpoi121qk3s7us8bkbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
